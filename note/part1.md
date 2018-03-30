@@ -31,6 +31,13 @@
 * 抽象，继承，封装，多态4个基本特征。
 * 没有类型系统，这在规模化编程里是非常危险的，一个函数，传参就能玩死人。于是现在流行使用flow和typescript来做类型校验。flow只是工具，比较轻量级。而typescript是es6超集，给es6补充了类型系统和更完善的面向对象机制，所以大部分人都会对ts有好感，很有可能是未来的趋势。
 
+### 结论
+
+* Node.js SDK里callback写法必须会的。
+* Node.js学习重点: Async函数与Promise
+    * 中流砥柱：Promise
+    * 终极解决方案：Async/Await
+
 
 
 
